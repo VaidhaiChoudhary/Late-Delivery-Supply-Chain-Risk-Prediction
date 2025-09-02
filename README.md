@@ -3,3 +3,5 @@ To compare ML algorithms to identify delayed deliveries using two different data
 This assesses how well several ML algorithms, which include 7 classifiers and 6 regressors, forecast delays and identify the variables that contribute to late delivery.
 
 Here is the flow of this project:
+![SupplyChain_FlowChart](https://github.com/user-attachments/assets/e0a10356-50ac-44ae-a59c-09edb1feae5f)
+
